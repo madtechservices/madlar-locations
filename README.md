@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/madtechservices/madlar-locations/blob/master/art/screenshot.png)
+![Screenshot](https://github.com/madtechservices/madlar-locations/art/screenshot.png)
 
 # MADLAR Locations
 
